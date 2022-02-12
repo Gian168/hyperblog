@@ -43,7 +43,13 @@ body {
     margin: 0 auto;
 }
 
-#post
-{
+#post{
     padding: 1em;
+}
+
+#footer{
+    background: rgb(109, 6, 6);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
