@@ -52,3 +52,9 @@ body {
     text-align: center;
     padding: 0.5em;
 }
+
+#img_central{
+    width: 40%;
+    margin: auto;
+    display: block;
+}
